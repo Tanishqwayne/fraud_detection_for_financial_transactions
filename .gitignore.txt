@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+data/
+models/
+logs/
+*.log
+.env
+venv/
+*.pkl
+*.h5
+*.csv
+*.zip
